@@ -16,7 +16,7 @@
 
 ## 🚀 GitHub Pages 頁面
 您可以直接點擊下方連結，線上瀏覽教學內容：  
-👉 **[線上教材頁面](https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME/)**
+👉 **[線上教材頁面](https://github.com/vvchung/ml_ew_uav)**
 
 > 請將 `YOUR_GITHUB_USERNAME` 與 `YOUR_REPO_NAME` 替換為您的 GitHub 帳號與專案名稱。
 
