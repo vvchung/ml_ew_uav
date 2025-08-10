@@ -18,17 +18,6 @@
 您可以直接點擊下方連結，線上瀏覽教學內容：  
 👉 **[線上教材頁面](https://github.com/vvchung/ml_ew_uav)**
 
-> 請將 `YOUR_GITHUB_USERNAME` 與 `YOUR_REPO_NAME` 替換為您的 GitHub 帳號與專案名稱。
-
----
-
-## 🛠 部署方法
-1. 將本專案 Clone 到本地端或 Fork 到您的 GitHub 帳號。
-2. 將 `index.html` 放在專案根目錄。
-3. 進入 GitHub 專案的 **Settings → Pages**。
-4. 在 **Source** 選擇 `main` 分支與 `/root` 目錄。
-5. 儲存後即可在設定的網址中看到教材頁面。
-
 ---
 
 ## 📚 授權資訊
